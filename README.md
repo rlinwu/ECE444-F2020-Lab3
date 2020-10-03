@@ -3,7 +3,7 @@ Flask Lab 3
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 1
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/master/Screenshots/Activity1.PNG" width=75%>
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/Screenshots/Activity1.PNG" width=75%>
 
 ## Activity 2  
 ![Activity 2](Screenshots/Activity2.PNG)  
