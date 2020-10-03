@@ -8,10 +8,13 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 2  
 ### Part 1
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2.PNG" width=75%>   
+
 ### Part 2
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-2.PNG" width=75%>   
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-2.PNG" width=75%>  
+
 ### Part 3
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-3.PNG" width=75%>   
+
 ### Part 4
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-4.PNG" width=75%>
 
