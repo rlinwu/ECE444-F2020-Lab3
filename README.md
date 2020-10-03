@@ -3,13 +3,18 @@ Flask Lab 3
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 1
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/master/Screenshots/Activity1.PNG" width=75%>
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity1.PNG" width=75%>
 
 ## Activity 2  
-![Activity 2](Screenshots/Activity2.PNG)  
-![Activity 22](Screenshots/Activity2-2.PNG)  
-![Activity 23](Screenshots/Activity2-3.PNG)  
-![Activity 24](Screenshots/Activity2-4.PNG)  
+### Part 1
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2.PNG" width=75%>
+### Part 2
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-2.PNG" width=75%>
+### Part 3
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-3.PNG" width=75%>
+### Part 4
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-4.PNG" width=75%>
+
 
 ## Activity 3  
 Difference between SQL and NoSQL database:  
