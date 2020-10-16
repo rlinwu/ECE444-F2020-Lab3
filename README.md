@@ -11,13 +11,13 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 `docker run -it --name <repository_name> --rm -p 5000:5000 <repository_name`
 
 ## Docker Run Command
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/docker_run.PNG" width=75%>
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Screenshots/docker_run.PNG" width=75%>
 
 ## Browser
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/docker_browser.PNG" width=75%>   
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Screenshots/docker_browser.PNG" width=75%>   
 
 ## Docker Image
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/docker_img.PNG" width=75%>  
+<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/Screenshots/docker_img.PNG" width=75%>  
 
 
 ## Differences between Docker and Virtual Machine
