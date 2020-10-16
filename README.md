@@ -1,25 +1,18 @@
-# ECE444-F2020-Lab3
-Flask Lab 3  
+# ECE444-F2020-Lab4
+Docker Lab 4
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
-## Activity 1
+## Docker Run Command
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity1.PNG" width=75%>
 
-## Activity 2  
-### Part 1
+## Browser
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2.PNG" width=75%>   
 
-### Part 2
+## Docker Image
 <img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-2.PNG" width=75%>  
 
-### Part 3
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-3.PNG" width=75%>   
 
-### Part 4
-<img src="https://github.com/rlinwu/ECE444-F2020-Lab3/blob/main/Screenshots/Activity2-4.PNG" width=75%>
-
-
-## Activity 3  
+## Differences between Docker and Virtual Machine
 Difference between SQL and NoSQL database:  
 1. SQL databases follow a relational model. NoSQL databases do not follow this model.
 2. SQL databases use tables and records. NoSQL databases use collections and documents. 
